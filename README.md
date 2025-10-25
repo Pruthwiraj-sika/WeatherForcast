@@ -1,5 +1,6 @@
 # WeatherForcast
 This is my first Git Repository
+<br>
 Author -Pruthwiraj Sika
 * **Current Weather Display:** Shows real-time temperature, and weather description.
 * **Multi-Day Forecast:** Provides a 3-day  weather outlook. (Adjust this number based on your actual feature)
