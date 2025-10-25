@@ -13,5 +13,5 @@ Author -Pruthwiraj Sika
     * **CSS**
     * **JavaScript** (for interactivity)
 * **Backend/API:**
-    * **[/weather/forecast]** - Create Api Using Springboot.
+    * **[/weather/forecast]** - Created This Api Using Springboot.
     * 
